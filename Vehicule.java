@@ -10,7 +10,7 @@ import java.text.DecimalFormat;
  */
 public class Vehicule {
 
-    public static final int MIN_PASSAGERS = 4 ;
+    public static final int MIN_PASSAGERS = 2 ;
     public static final int MAX_PASSAGERS = 8;
     public static final double TAXE = 0.17;
     public static final double RABAIS_PAR_DEFAUT = 0;

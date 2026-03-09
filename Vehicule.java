@@ -14,11 +14,11 @@ public class Vehicule {
     public static final int MAX_PASSAGERS = 8;
 	public static final boolean HAS_CHAUFFEUR = true;
     public static final double TAXE = 0.15;
-    public static final double RABAIS_PAR_DEFAUT = 0;
+    public static final double RABAIS_PAR_DEFAUT_FUTUR = 0;
     public static final double FRAIS_ADMINISTRATIF = 7.25;
 
     private double prixVente = 0;
-    private double rabais = RABAIS_PAR_DEFAUT;
+    private double rabais = RABAIS_PAR_DEFAUT_FUTUR;
     private String modele = "";
     private int nombrePassagers = 0;
 

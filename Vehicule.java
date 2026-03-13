@@ -13,7 +13,8 @@ public class Vehicule {
     public static final int MIN_PASSAGERS = 4 ;
     public static final int MAX_PASSAGERS = 8;
 	public static final boolean HAS_CHAUFFEUR = true;
-    public static final double TAXE = 0.15;
+    public static final double TAXE_TPS_TVQ = 0.15;
+	public static final int TOTO =2;
     public static final double RABAIS_PAR_DEFAUT_FUTUR = 10;
     public static final double FRAIS_ADMINISTRATIF = 7.25;
 
